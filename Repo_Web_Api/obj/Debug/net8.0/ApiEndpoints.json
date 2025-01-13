@@ -1,0 +1,138 @@
+[
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.AuthorController",
+    "Method": "GetbyId",
+    "RelativePath": "api/Author",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.AuthorController",
+    "Method": "GetAll",
+    "RelativePath": "api/Author/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.AuthorController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Author/GetByIdAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.AuthorController",
+    "Method": "GetFirstOrDefault",
+    "RelativePath": "api/Author/GetFirstOrDefault",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.BookController",
+    "Method": "GetbyId",
+    "RelativePath": "api/Book",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.BookController",
+    "Method": "AddOne",
+    "RelativePath": "api/Book/AddOne",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.BookController",
+    "Method": "FindAll",
+    "RelativePath": "api/Book/FindAllwithOrder",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.BookController",
+    "Method": "GetAll",
+    "RelativePath": "api/Book/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.BookController",
+    "Method": "GetByIdAsync",
+    "RelativePath": "api/Book/GetByIdAsync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Repo_Web_Api.Controllers.BookController",
+    "Method": "GetFirstOrDefault",
+    "RelativePath": "api/Book/GetFirstOrDefault",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

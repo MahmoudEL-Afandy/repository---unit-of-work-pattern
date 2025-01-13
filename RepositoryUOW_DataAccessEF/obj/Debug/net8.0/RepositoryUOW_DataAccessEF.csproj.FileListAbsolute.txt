@@ -1,0 +1,17 @@
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\bin\Debug\net8.0\RepositoryUOW_DataAccessEF.deps.json
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\bin\Debug\net8.0\RepositoryUOW_DataAccessEF.runtimeconfig.json
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\bin\Debug\net8.0\RepositoryUOW_DataAccessEF.dll
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\bin\Debug\net8.0\RepositoryUOW_DataAccessEF.pdb
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\RepositoryUOW_DataAccessEF.csproj.AssemblyReference.cache
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\RepositoryUOW_DataAccessEF.GeneratedMSBuildEditorConfig.editorconfig
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\RepositoryUOW_DataAccessEF.AssemblyInfoInputs.cache
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\RepositoryUOW_DataAccessEF.AssemblyInfo.cs
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\RepositoryUOW_DataAccessEF.csproj.CoreCompileInputs.cache
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\RepositoryUOW_DataAccessEF.dll
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\refint\RepositoryUOW_DataAccessEF.dll
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\RepositoryUOW_DataAccessEF.pdb
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\RepositoryUOW_DataAccessEF.genruntimeconfig.cache
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\ref\RepositoryUOW_DataAccessEF.dll
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\bin\Debug\net8.0\RepositoryUOW_Entities.dll
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\bin\Debug\net8.0\RepositoryUOW_Entities.pdb
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_DataAccessEF\obj\Debug\net8.0\Reposito.F2AA0BC6.Up2Date

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{944AE861-C56E-4002-A7A5-D9A843F8CA93}|Repo_Web_Api\\Repo_Web_Api.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repo_web_api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944AE861-C56E-4002-A7A5-D9A843F8CA93}|Repo_Web_Api\\Repo_Web_Api.csproj|solutionrelative:repo_web_api\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944AE861-C56E-4002-A7A5-D9A843F8CA93}|Repo_Web_Api\\Repo_Web_Api.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repo_web_api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944AE861-C56E-4002-A7A5-D9A843F8CA93}|Repo_Web_Api\\Repo_Web_Api.csproj|solutionrelative:repo_web_api\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DBA060-2F1F-473D-9798-FB3D6EC5A75B}|RepositoryUOW_DataAccessEF\\RepositoryUOW_DataAccessEF.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repositoryuow_dataaccessef\\repositoriesimplementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DBA060-2F1F-473D-9798-FB3D6EC5A75B}|RepositoryUOW_DataAccessEF\\RepositoryUOW_DataAccessEF.csproj|solutionrelative:repositoryuow_dataaccessef\\repositoriesimplementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DBA060-2F1F-473D-9798-FB3D6EC5A75B}|RepositoryUOW_DataAccessEF\\RepositoryUOW_DataAccessEF.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repositoryuow_dataaccessef\\repositoriesimplementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DBA060-2F1F-473D-9798-FB3D6EC5A75B}|RepositoryUOW_DataAccessEF\\RepositoryUOW_DataAccessEF.csproj|solutionrelative:repositoryuow_dataaccessef\\repositoriesimplementation\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8DBA060-2F1F-473D-9798-FB3D6EC5A75B}|RepositoryUOW_DataAccessEF\\RepositoryUOW_DataAccessEF.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repositoryuow_dataaccessef\\repositoriesimplementation\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8DBA060-2F1F-473D-9798-FB3D6EC5A75B}|RepositoryUOW_DataAccessEF\\RepositoryUOW_DataAccessEF.csproj|solutionrelative:repositoryuow_dataaccessef\\repositoriesimplementation\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871155-D7DA-48C3-BEA9-64093D1EFC17}|RepositoryUOW_Entities\\RepositoryUOW_Entities.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repositoryuow_entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871155-D7DA-48C3-BEA9-64093D1EFC17}|RepositoryUOW_Entities\\RepositoryUOW_Entities.csproj|solutionrelative:repositoryuow_entities\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871155-D7DA-48C3-BEA9-64093D1EFC17}|RepositoryUOW_Entities\\RepositoryUOW_Entities.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repositoryuow_entities\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871155-D7DA-48C3-BEA9-64093D1EFC17}|RepositoryUOW_Entities\\RepositoryUOW_Entities.csproj|solutionrelative:repositoryuow_entities\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871155-D7DA-48C3-BEA9-64093D1EFC17}|RepositoryUOW_Entities\\RepositoryUOW_Entities.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repositoryuow_entities\\constants\\orderby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871155-D7DA-48C3-BEA9-64093D1EFC17}|RepositoryUOW_Entities\\RepositoryUOW_Entities.csproj|solutionrelative:repositoryuow_entities\\constants\\orderby.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44871155-D7DA-48C3-BEA9-64093D1EFC17}|RepositoryUOW_Entities\\RepositoryUOW_Entities.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repositoryuow_entities\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44871155-D7DA-48C3-BEA9-64093D1EFC17}|RepositoryUOW_Entities\\RepositoryUOW_Entities.csproj|solutionrelative:repositoryuow_entities\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{944AE861-C56E-4002-A7A5-D9A843F8CA93}|Repo_Web_Api\\Repo_Web_Api.csproj|e:\\my studies\\designpatterns\\helaly_repo_pattern\\repo_web_api\\repo_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{944AE861-C56E-4002-A7A5-D9A843F8CA93}|Repo_Web_Api\\Repo_Web_Api.csproj|solutionrelative:repo_web_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\BookRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\BookRepository.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\BookRepository.cs",
+              "RelativeToolTip": "RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:33:49.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_Entities\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryUOW_Entities\\Repositories\\IBookRepository.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_Entities\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "RepositoryUOW_Entities\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T22:29:48.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\UnitOfWork.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\UnitOfWork.cs",
+              "RelativeToolTip": "RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\UnitOfWork.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:40:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_Entities\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "RepositoryUOW_Entities\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_Entities\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "RepositoryUOW_Entities\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:35:23.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\Repo_Web_Api\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Repo_Web_Api\\Controllers\\BookController.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\Repo_Web_Api\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Repo_Web_Api\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAE4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:52:27.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\Repo_Web_Api\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "Repo_Web_Api\\Controllers\\AuthorController.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\Repo_Web_Api\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "Repo_Web_Api\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAAC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:50:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\GenericRepository.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\GenericRepository.cs",
+              "RelativeToolTip": "RepositoryUOW_DataAccessEF\\RepositoriesImplementation\\GenericRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:33:41.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderBy.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_Entities\\Constants\\OrderBy.cs",
+              "RelativeDocumentMoniker": "RepositoryUOW_Entities\\Constants\\OrderBy.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_Entities\\Constants\\OrderBy.cs",
+              "RelativeToolTip": "RepositoryUOW_Entities\\Constants\\OrderBy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T13:52:11.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_Entities\\Repositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "RepositoryUOW_Entities\\Repositories\\IGenericRepository.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\RepositoryUOW_Entities\\Repositories\\IGenericRepository.cs",
+              "RelativeToolTip": "RepositoryUOW_Entities\\Repositories\\IGenericRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T19:33:03.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\Repo_Web_Api\\Program.cs",
+              "RelativeDocumentMoniker": "Repo_Web_Api\\Program.cs",
+              "ToolTip": "E:\\my studies\\DesignPatterns\\Helaly_Repo_Pattern\\Repo_Web_Api\\Repo_Web_Api\\Program.cs",
+              "RelativeToolTip": "Repo_Web_Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T20:50:47.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

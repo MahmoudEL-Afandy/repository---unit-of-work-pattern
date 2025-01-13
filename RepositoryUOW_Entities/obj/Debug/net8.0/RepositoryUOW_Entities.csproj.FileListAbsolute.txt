@@ -1,0 +1,11 @@
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\bin\Debug\net8.0\RepositoryUOW_Entities.deps.json
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\bin\Debug\net8.0\RepositoryUOW_Entities.dll
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\bin\Debug\net8.0\RepositoryUOW_Entities.pdb
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\obj\Debug\net8.0\RepositoryUOW_Entities.GeneratedMSBuildEditorConfig.editorconfig
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\obj\Debug\net8.0\RepositoryUOW_Entities.AssemblyInfoInputs.cache
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\obj\Debug\net8.0\RepositoryUOW_Entities.AssemblyInfo.cs
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\obj\Debug\net8.0\RepositoryUOW_Entities.csproj.CoreCompileInputs.cache
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\obj\Debug\net8.0\RepositoryUOW_Entities.dll
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\obj\Debug\net8.0\refint\RepositoryUOW_Entities.dll
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\obj\Debug\net8.0\RepositoryUOW_Entities.pdb
+E:\my studies\DesignPatterns\Helaly_Repo_Pattern\Repo_Web_Api\RepositoryUOW_Entities\obj\Debug\net8.0\ref\RepositoryUOW_Entities.dll
