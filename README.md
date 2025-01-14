@@ -1,7 +1,6 @@
 # Implementing Repository Pattern and Unit of Work 
 
-is a asp.net 8 web api application with example business logic about author and book, and i was implemented repository pattern and unit of work on this example .
-this project built based on N-Tier Architecture.
+I have developed an ASP.NET 8 Web API application that incorporates business logic related to authors and books. In this implementation, I utilized the repository pattern and the unit of work pattern to enhance data management. this project built based on N-Tier Architecture.
 
 ## Table of Contents 
 
