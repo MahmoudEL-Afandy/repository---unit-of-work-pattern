@@ -105,11 +105,9 @@ I have developed an ASP.NET 8 Web API application that incorporates business log
 
 If you have any questions or suggestions, feel free to contact us: 
 
-- Email: [mahmoudeldrenyelafandy2000@gmail.com](mailto:mahmoudeldrenyelafandy2000@gmail.com) 
+- Email: [Gmail](mailto:mahmoudeldrenyelafandy2000@gmail.com) 
 
-Follow us on social media: 
 
-- [LinkedIn](https://www.linkedin.com/in/mahmoud-abd-el-halim-sw) 
 
   
 
